@@ -30,11 +30,13 @@
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/sachinrkp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/SACHINrkp2" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%3D85C6?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/SACHINrkp2" target="_blank"><img src="https://img.shields.io/twitter/follow/SACHINrkp2" target="_blank"></a>
   <a href="https://instagram.com/sachinrkp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: sachinrkp07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
+
+
  
   ![Snake animation](https://github.com/sachinrkp/sachinrkp/blob/output/github-contribution-grid-snake.svg)
  
