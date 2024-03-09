@@ -41,7 +41,7 @@ My Portfolio Website - https://sachin-patel.netlify.app
 
 
  
-  ![Snake animation](https://github.com/sachinrkp/sachinrkp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sachinrkp/sachinrkp/output/github-contribution-grid-snake.svg)
  
 </div>
 
